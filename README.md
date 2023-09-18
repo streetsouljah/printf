@@ -1,5 +1,5 @@
 =================PRINTF ALX PROJECT=================
-
+FIRST COLLABORATION PROJECT, PRINTF;
 INTRO:
 The printf function is a powerful tool used in software engineering to display information in various formats
 Printf allows one to print or show specific values, variables in a predefined manner
@@ -22,4 +22,6 @@ Task 1:
 Education is when you read the fine print. Experience is what you get if you don't 
 
 ADVANCE TASKS:
+
+We will test this custom fuction with test files, and edge cases.
 
